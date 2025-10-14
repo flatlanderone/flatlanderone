@@ -1,6 +1,9 @@
 ## Hi there 👋
 
 My gameplay mods: https://next.nexusmods.com/profile/flatlanderone/mods?gameId=1059 
+
+My modding utilities: https://www.nexusmods.com/7daystodie/mods/8769
+
 <!--
 **flatlanderone/flatlanderone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
