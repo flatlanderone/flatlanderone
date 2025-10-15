@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My gameplay mods: https://next.nexusmods.com/profile/flatlanderone/mods?gameId=1059 
+My gameplay mods: https://next.nexusmods.com/profile/flatlanderone/mods
 
 My modding utilities: https://www.nexusmods.com/7daystodie/mods/8769
 
