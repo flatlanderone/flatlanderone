@@ -4,6 +4,8 @@ My gameplay mods: https://next.nexusmods.com/profile/flatlanderone/mods
 
 My modding utilities: https://www.nexusmods.com/7daystodie/mods/8769
 
+Support my work on https://buymeacoffee.com/flatlander
+
 <!--
 **flatlanderone/flatlanderone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
